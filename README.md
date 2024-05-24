@@ -5,7 +5,6 @@
 - 💻 I'm Backend-Focused Fullstack Developer
 - 📖 I’m currently learning **TypeScript**, **Go**, and **Hono**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
-- ⚡ In my free time, I enjoy playing **Epep**.
 
 ## 🛠️ Technologies That I Use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
