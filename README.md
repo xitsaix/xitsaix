@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xitsaix.xitsaix)
 
 ## 😎 About Me
-- 💻 I'm Backend-Focused Fullstack Developer <!-- With DevSecOps Expertise --> 
+- 💻 I'm Backend-Focused Fullstack Developer
 - 📖 I’m currently learning **TypeScript**, **Go**, **Next.js**, and **Taiwanese Mandarin**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
 - ⚡ In my free time, I enjoy playing **Yu-Gi-Oh! Master Duel**.
@@ -24,11 +24,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![KERAS](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bangkit](https://img.shields.io/badge/Bangkit-FF0000?style=for-the-badge&logo=hotjar&logoColor=white)
 
-### Contact Me 🌐
+## 🌐 Contact Me
 [![Gmail](https://img.shields.io/badge/-xitsaix-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:xitsaix@gmail.com)](mailto:xitsaix@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-akbar--ihsanul--ahadin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/akbar-ihsanul-ahadin)](https://linkedin.com/in/akbar-ihsanul-ahadin) 
-[![Twitter](https://img.shields.io/badge/-_kkydnn-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/_kkydnn)](https://twitter.com/_kkydnn) 
 [![Instagram](https://img.shields.io/badge/-its____ai-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/its____ai/)](https://instagram.com/its____ai/) 
 [![Facebook](https://img.shields.io/badge/-Akbar-1877F2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/shellaccount)](https://facebook.com/shellaccount)
