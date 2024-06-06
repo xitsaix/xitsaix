@@ -1,10 +1,4 @@
 # Hi there, I'm Akbar Ihsanul Ahadin 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xitsaix.xitsaix)
-
-## 😎 About Me
-- 💻 I'm Backend-Focused Fullstack Developer
-- 📖 I’m currently learning **TypeScript**, **Go**, and **Hono**.
-- 🔭 I love exploring new technologies and taking on coding challenges.
 
 ## 🛠️ Technologies That I Use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
